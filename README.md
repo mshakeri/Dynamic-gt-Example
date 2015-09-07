@@ -1,3 +1,3 @@
-lets see new 
+lets see
 # Dynamic-gt-Example
 Git Tutorial
